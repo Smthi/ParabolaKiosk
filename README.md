@@ -1,6 +1,6 @@
 # ParabolaKiosk
-~~~src
-├─ .DS_Store
+~~~
+src
 ├─ Main.java
 ├─ inventory
 │  ├─ FlavorStock.java
