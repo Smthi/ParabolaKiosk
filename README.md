@@ -30,10 +30,6 @@ src
 │  ├─ StrawberryDecorator.java
 │  ├─ ToppingDecorator.java
 │  └─ WhiteMaltDecorator.java
-├─ output
-│  ├─ inventory.puml
-│  ├─ order.puml
-│  └─ payment.puml
 └─ payment
    ├─ CashPaymentStrategy.java
    ├─ PaymentStrategy.java
