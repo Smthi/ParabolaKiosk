@@ -1,5 +1,5 @@
 # ParabolaKiosk
-src
+"""src
 ├─ .DS_Store
 ├─ Main.java
 ├─ inventory
@@ -37,4 +37,4 @@ src
 └─ payment
    ├─ CashPaymentStrategy.java
    ├─ PaymentStrategy.java
-   └─ QRPaymentStrategy.java
+   └─ QRPaymentStrategy.java"""
